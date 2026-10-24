@@ -6,6 +6,8 @@ import {
   FaMapMarkerAlt,
   FaGithub,
   FaLinkedin,
+  FaFacebook,
+  FaInstagram,
   FaArrowUp,
 } from "react-icons/fa";
 
@@ -64,7 +66,7 @@ function Footer() {
             <FaInstagram /></a>
 
             <a href="https://web.facebook.com/szvision1838/?_rdc=1&_rdr#" target="_blank" rel="noreferrer" aria-label="Facebook">
-            <FaFacebookF /></a>
+            <FaFacebook /></a>
           </div>
 
         </div>
