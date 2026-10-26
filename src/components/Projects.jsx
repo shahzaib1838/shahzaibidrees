@@ -49,6 +49,22 @@ function Projects() {
         "A global food sourcing and export website specializing in meat, poultry, seafood, and frozen food products for international markets.",
       link: "https://pacificislandfoods.com/",
     },
+   {
+  image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-10-26_205546.png?v=1793029996",
+  title: "Food Para Todos",
+  category: "WordPress",
+  description:
+    "Community-focused website dedicated to food recovery, reducing food waste, and redistributing fresh food to families in need.",
+  link: "https://foodparatodos.org/",
+},
+    {
+      image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-10-26_204945.png?v=1793029587",
+      title: "The Superstar Brokers",
+      category: "WordPress",
+      description:
+        "Music rights advisory website featuring music catalogue valuation, private market transactions, and strategic investment services.",
+      link: "https://thesuperstarbrokers.com/",
+    },
       {
       image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-10-20_230716.png?v=1792519443",
       title: "BUILT TOP NOTCH.",
