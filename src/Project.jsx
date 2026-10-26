@@ -23,16 +23,6 @@ function Project() {
       tech: "WordPress",
     },
 
-    {
-      image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-09-01_205824.png?v=1788278165",
-      title: "Interior Design",
-      category: "Service Website",
-      description:
-        "Modern interior design website created with a professional layout focused on presentation and usability.",
-      link: "https://interiordesign.xemensolutions.tech/",
-      tech: "WordPress",
-    },
-
 {
   image:
     "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-09-01_210136.png?v=1788278321",
@@ -42,6 +32,15 @@ function Project() {
     "Professional WooCommerce e-commerce store with product management, responsive design, and a smooth online shopping experience.",
   link: "https://peachstatepeps.com/",
   tech: "WooCommerce",
+},
+{
+  image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-10-26_203756.png?v=1793028935",
+  title: "Apex Legal",
+  category: "Business Website",
+  description:
+    "Professional legal services website with responsive design, practice area showcases, industry insights, and a modern user experience.",
+  link: "https://www.apex-legal.com/",
+  tech: "Squarespace",
 },
   ];
 

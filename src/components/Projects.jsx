@@ -138,14 +138,6 @@ function Projects() {
         "Professional WordPress business website with a clean layout, responsive design and an optimized user experience.",
       link: "https://tradingandinvestingexplaindasifyouwereafiveyeaold.com/",
     },
-    // {
-    //   image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-09-01_205824.png?v=1788278165",
-    //   title: "Interior Design",
-    //   category: "WordPress",
-    //   description:
-    //     "Modern interior design website focused on professional presentation, responsive layouts and an engaging user experience.",
-    //   link: "https://interiordesign.xemensolutions.tech/",
-    // },
 
 {
   image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-09-01_213405.png?v=1788280287",
@@ -164,7 +156,14 @@ function Projects() {
         "Professional mental health service website designed with a clean interface and accessible user experience.",
       link: "https://atyourpacementalhealth.com/",
     },
-
+   {
+      image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-10-26_203756.png?v=1793028935",
+      title: "Apex Legal",
+      category: "Squarespace",
+      description:
+        "Professional legal services website with responsive design, practice area showcases, industry insights, and a modern user experience.",
+      link: "https://www.apex-legal.com/",
+    },
     // ==========================
     // SEO
     // ==========================
