@@ -121,7 +121,14 @@ function Projects() {
         "Professional WooCommerce e-commerce store with product management, responsive design and a smooth online shopping experience.",
       link: "https://peachstatepeps.com/",
     },
-    
+     {
+      image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-11-01_093401.png?v=1793507448",
+      title: "ZenPuff",
+      category: "WooCommerce",
+      description:
+        "WooCommerce store designed for the ZenPuff Luxury Aluminum Glass Water Bottle, featuring custom product showcases, interactive feature comparison tables, customer reviews, and a smooth checkout flow.",
+      link: "https://drog.techtitanstudio.net/",
+    },
     {
       image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-09-01_205446.png?v=1788277921",
       title: "PointRN",
