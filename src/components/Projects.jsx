@@ -130,6 +130,14 @@ function Projects() {
       link: "https://drog.techtitanstudio.net/",
     },
     {
+      image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-11-03_113033.png?v=1793687317",
+      title: "Grace & Glow",
+      category: "WooCommerce",
+      description:
+        "Elegant WooCommerce store for Grace & Glow Candle Co., featuring premium candle collections, beautiful product showcases, and a seamless shopping experience.",
+      link: "https://graceandglowcandleco.com/",
+    },
+    {
       image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-09-01_205446.png?v=1788277921",
       title: "PointRN",
       category: "WordPress",
