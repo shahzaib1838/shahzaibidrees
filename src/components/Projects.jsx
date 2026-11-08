@@ -137,6 +137,14 @@ function Projects() {
         "Elegant WooCommerce store for Grace & Glow Candle Co., featuring premium candle collections, beautiful product showcases, and a seamless shopping experience.",
       link: "https://graceandglowcandleco.com/",
     },
+     {
+      image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-11-08_093333.png?v=1794112294",
+      title: "A1BAC",
+      category: "WooCommerce",
+      description:
+        "Professional WooCommerce store for A1Bac, featuring bacteriostatic water in three size options, clear product details, and a simple, secure shopping experience.",
+      link: "https://a1bac.com/",
+    },
     {
       image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-09-01_205446.png?v=1788277921",
       title: "PointRN",
