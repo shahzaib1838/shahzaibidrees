@@ -56,6 +56,13 @@ function Projects() {
   description:
     "Educational platform designed to help students learn Spanish through structured grammar lessons, vocabulary building, real-world conversations, pronunciation practice, interactive quizzes, and learning resources. Features a user-friendly design focused on making Spanish learning simple, engaging, and accessible.",
 },
+ {
+  image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-11-22_102115.png?v=1795324681",
+  title: "Craft N Scent",
+  category: "WooCommerce",
+  description:
+    "Premium eCommerce website for Craft N Scent, featuring a beautifully designed online store for natural gemstones and luxury stones. Includes organized product categories such as Red Agate, Lapis Lazuli, Turquoise, and Tiger's Eye, promotional sale banners, product search, shopping cart, and an elegant shopping experience. Built with WooCommerce, focusing on modern design, easy navigation, and seamless product discovery.",
+},
    {
   image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-10-26_205546.png?v=1793029996",
   title: "Food Para Todos",
