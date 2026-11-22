@@ -52,7 +52,7 @@ function Projects() {
     {
   image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-11-22_101054.png?v=1795324089",
   title: "Learn Spanish Forever",
-  category: "GuGutenberg",
+  category: "Gutenberg",
   description:
     "Educational platform designed to help students learn Spanish through structured grammar lessons, vocabulary building, real-world conversations, pronunciation practice, interactive quizzes, and learning resources. Features a user-friendly design focused on making Spanish learning simple, engaging, and accessible.",
 },
