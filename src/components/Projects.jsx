@@ -49,19 +49,17 @@ function Projects() {
         "A global food sourcing and export website specializing in meat, poultry, seafood, and frozen food products for international markets.",
       link: "https://pacificislandfoods.com/",
     },
-   {
+  {
   image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-11-22_101054.png?v=1795324089",
   title: "Learn Spanish Forever",
   category: "Gutenberg",
-  description:
-    "Educational platform built to help students learn Spanish through grammar lessons, vocabulary, conversation practice, pronunciation, interactive quizzes, and learning resources. Features a clean, user-friendly design for an engaging learning experience.",
+  description: "A Spanish learning platform featuring grammar lessons, vocabulary, conversation practice, and interactive quizzes.",
 },
 {
   image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-11-22_102115.png?v=1795324681",
   title: "Craft N Scent",
   category: "WooCommerce",
-  description:
-    "Premium eCommerce store for natural gemstones and luxury stones, featuring organized product categories, promotional banners, product search, and shopping cart. Designed with an elegant layout for smooth navigation and easy shopping.",
+  description: "A premium gemstone store featuring elegant product categories, promotional offers, and a seamless shopping experience.",
 },
    {
   image: "https://cdn.shopify.com/s/files/1/0655/9501/5247/files/Screenshot_2026-10-26_205546.png?v=1793029996",
